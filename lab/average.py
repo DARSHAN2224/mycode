@@ -1,0 +1,11 @@
+a,b=map(int,input().split())
+sum=a+b
+diff=a-b
+prod=a*b
+div=a/b
+mod=a%b
+print("Sum:",sum)
+print("Difference:",diff)
+print("Product:",prod)
+print("Quotient:",div)
+print("Remainder:",mod)
